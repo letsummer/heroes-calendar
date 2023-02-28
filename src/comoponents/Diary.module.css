@@ -13,7 +13,7 @@
     border: #800020 1px solid;
 }
 p:first-child{
-    border-bottom: #800020 1px solid;
+    /* border-bottom: #800020 1px solid; */
 }
 p:nth-child(2){
     flex: 5;
