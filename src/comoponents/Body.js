@@ -1,11 +1,11 @@
 import React from "react";
 import Diary from "./Diary";
-import Calender from "./Calender";
+import Calendar from "./Calendar";
 
 function Body(){
     return(
         <div>
-            <Calender/>
+            <Calendar/>
             <Diary/>
         </div>
     );
