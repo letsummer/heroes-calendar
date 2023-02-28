@@ -1,6 +1,6 @@
 import React from "react";
 import Diary from "./Diary";
-import Calender from "./Calender";
+import Calender from "./Calendar";
 
 function Body(){
     return(
