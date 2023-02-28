@@ -1,5 +1,5 @@
 import React from "react";
-import calStyles from "./Calender.module.css";
+import calStyles from "./Calendar.module.css";
 
 function Calendar() {
     return (
